@@ -1,6 +1,7 @@
 *******potato salad*******
 
 Ingredients 
+
 4 small red potatoes
 •1-2 tablespoons mayonnaise
 •1-3 teaspoons chopped red onion
