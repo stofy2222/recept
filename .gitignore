@@ -1,8 +1,9 @@
-  .idea/* 
-  vendor/* 
-  !vendor/others 
- 
-  .DS_Store 
-  !.gitignore 
-  !.htaccess 
- 
+.vagrant
+/cookbooks
+
+# Bundler
+bin/*
+.bundle/*
+
+.kitchen/
+.kitchen.local.yml
